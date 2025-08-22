@@ -1,6 +1,6 @@
 # Deprecation Notice:
-This SDK is deprecated. You can continue to use it, but no new features or support requests will be accepted.
-For alternatives, please visit [the current SDK homepage on the PayPal Developer Portal](https://developer.paypal.com/docs/api/rest-sdks/)
+This SDK is deprecated; you can continue to use it, but no new features or support requests will be accepted. An integration with [the new Server SDK](https://github.com/paypal/PayPal-Server-SDKs) is recommended. Review the [docs](https://developer.paypal.com/serversdk/php/getting-started/how-to-get-started/) for details.
+
 
 ## REST API SDK for PHP
 
